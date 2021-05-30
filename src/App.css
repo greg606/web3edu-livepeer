@@ -1,5 +1,11 @@
-.App {
-  text-align: center;
+.react-player {
+  height:  800px;
+  width: 800px;
+}
+
+html {
+  /*text-align: center;*/
+  background-color: #282c34;
 }
 
 .App-logo {
